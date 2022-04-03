@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = malshetwi_CapstoneProject_SDA.LMS
+build_property.ProjectDir = C:\Users\msh32\source\repos\SDA_Simplilearn\.NET FSD Capstone Project\malshetwi_CapstoneProject_SDA.LMS\
